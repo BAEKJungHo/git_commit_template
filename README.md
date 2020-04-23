@@ -2,7 +2,15 @@
 
 - [Plug in Download 와 사용 방법](https://plugins.jetbrains.com/plugin/9364-commit-message-template)
 
-## git commit template
+## 템플릿 적용하기
+
+- 플러그인 설치
+- 템플릿 파일 적용
+  - ![commit](images/commit.PNG)
+- 커밋 창에서 Commit Message Template 버튼 클릭
+  - ![commit1](images/commit1.PNG)
+
+## git commit template sample
 
 > `#` 은 커밋 메시지에서 주석 역할이라 신경 쓰지 않아도 된다.
 
